@@ -1,0 +1,37 @@
+
+Name: Areeba, Lesson: Easy, Accuracy: 95.5%, WPM: 51.01
+Name: Areeba, Lesson: Difficult, Accuracy: 96.2%, WPM: 38.95
+Name: Areeba, Lesson: Difficult, Accuracy: 100.0%, WPM: 37.45
+Name: Aereeab, Lesson: Difficult, Accuracy: 100.0%, WPM: 54.50
+Name: Areeba, Lesson: Difficult, Accuracy: 100.0%, WPM: 59.70
+Name: Areeba, Lesson: Easy, Accuracy: 95.5%, WPM: 51.33
+Name: Areeba, Lesson: Easy, Accuracy: 83.3%, WPM: 29.56
+Name: Areeba, Lesson: Easy, Accuracy: 100.0%, WPM: 49.49
+Name: Areeba, Lesson: Difficult, Accuracy: 100.0%, WPM: 49.49
+Name: Areeba, Lesson: Easy, Accuracy: 83.3%, WPM: 38.93
+Name: Areeba, Lesson: Easy, Accuracy: 72.4%, WPM: 49.63
+Name: Areeba, Lesson: Difficult, Accuracy: 86.2%, WPM: 17.43
+Name: Areeba, Lesson: Easy, Accuracy: 86.2%, WPM: 17.43
+Name: Areeba, Lesson: Easy, Accuracy: 84.0%, WPM: 45.90
+Name: Areeba, Lesson: Easy, Accuracy: 73.5, WPM: 36.58, Mistakes: 9.00
+Name: baneen, Lesson: Easy, Accuracy: 88.7%, WPM: 21.96, Mistakes: 6.00
+Name: baneen, Lesson: Difficult, Accuracy: 88.7%, WPM: 21.96, Mistakes: 6.00
+Name: baneen, Lesson: Easy, Accuracy: 86.1%, WPM: 17.32, Mistakes: 5.00
+Name: baneen, Lesson: Difficult, Accuracy: 90.4%, WPM: 21.46, Mistakes: 5.00
+Name: Baneen, Lesson: Difficult, Accuracy: 97.9%, WPM: 18.29, Mistakes: 1.00
+Name: baneen, Lesson: Easy, Accuracy: 85.5%, WPM: 18.64, Mistakes: 8.00
+Name: baneen, Lesson: Difficult, Accuracy: 85.5%, WPM: 18.64, Mistakes: 8.00
+Name: BANEEN, Lesson: Easy, Accuracy: 83.9%, WPM: 16.43, Mistakes: 9.00
+Name: hiba, Lesson: Easy, Accuracy: 93.9%, WPM: 18.54, Mistakes: 2.00
+Name: jin, Lesson: Easy, Accuracy: 72.1%, WPM: 16.49, Mistakes: 12.00
+Name: jin, Lesson: Difficult, Accuracy: 72.1%, WPM: 16.49, Mistakes: 12.00
+Name: ali, Lesson: , Accuracy: 0.0%, WPM: 0.00, Mistakes: 0.00
+Name: diya, Lesson: easy, Accuracy: 94.0%, WPM: 18.88, Mistakes: 3.00
+Name: ali, Lesson: Easy, Accuracy: 85.5%, WPM: 21.47, Mistakes: 8.00
+Name: ali, Lesson: Difficult, Accuracy: 85.5%, WPM: 21.47, Mistakes: 8.00
+Name: sara, Lesson: Easy, Accuracy: 92.2%, WPM: 15.57, Mistakes: 4.00
+Name: farwa, Lesson: Difficult, Accuracy: 79.7%, WPM: 18.25, Mistakes: 12.00
+Name: jari, Lesson: Easy, Accuracy: 73.4%, WPM: 14.50, Mistakes: 17.00
+Name: jari, Lesson: Easy, Accuracy: 73.4%, WPM: 14.50, Mistakes: 17.00
+Name: fria, Lesson: Easy, Accuracy: 75.6%, WPM: 22.03, Mistakes: 10.00
+Name: Baneen, Lesson: Difficult, Accuracy: 90.4%, WPM: 28.43, Mistakes: 5.00
